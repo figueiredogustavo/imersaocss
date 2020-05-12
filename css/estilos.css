@@ -1,12 +1,12 @@
 body{
-    background: #229988;
-    background-size: auto 100vh; /*largura altura*/
+    background-image: url('https://cdn.pixabay.com/photo/2014/05/03/01/03/macbook-336704_1280.jpg');
+    background-size: auto 140vh; /*largura altura*/
     font-family: Arial;
   }
   
-  .menu{
-    background-color: white;
-  }
+  /*.menu{
+    
+  }*/
   
   .menu li{
     list-style: none;
@@ -18,7 +18,7 @@ body{
   }
   
   a{
-    color: teal;
+    color: black;
     text-decoration: none;
   }
   
@@ -28,7 +28,7 @@ body{
   
   .site-subtitle,
   .site-title {
-    color: whitesmoke;
+    color: black;
     text-align: center;
   }
   
